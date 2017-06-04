@@ -1,4 +1,6 @@
 {
+  "name": "react-document-title-decorator",
+  "version": "1.0.0",
   "scripts": {
     "build": "webpack",
     "start": "http-server dist"
